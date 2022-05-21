@@ -1,2 +1,2 @@
 # siberianMan13-hexlet-my-first-workflow
-[![Actions Status](https://github.com/siberianMan13/siberianMan13-hexlet-my-first-workflow/workflows/hello-world/badge.svg)](https://github.com/siberianMan13/siberianMan13-my-first-workflow/actions)
+[![Actions Status](https://github.com/siberianMan13/siberianMan13-hexlet-my-first-workflow/workflows/hello-world/badge.svg)](https://github.com/siberianMan13/siberianMan13-my-first-workflow)
