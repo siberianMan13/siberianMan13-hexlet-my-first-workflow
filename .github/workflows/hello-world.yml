@@ -1,7 +1,7 @@
 name: hello-world
 on: push
 jobs:
-  build:
+  greet:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
